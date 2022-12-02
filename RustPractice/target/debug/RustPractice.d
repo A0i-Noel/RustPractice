@@ -1,0 +1,1 @@
+/Users/aoikuriki/Downloads/Study/Computer\ Science/CSE310/Individual_Sprint5/RustPractice/RustPractice/target/debug/RustPractice: /Users/aoikuriki/Downloads/Study/Computer\ Science/CSE310/Individual_Sprint5/RustPractice/RustPractice/src/main.rs
